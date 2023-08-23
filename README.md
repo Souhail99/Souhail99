@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/souhail-ait-lahcen-967155196/" target="_blank">LinkedIn</a>
 </p>
 
-I am Souhail AIT LAHCEN, student at ESILV Paris, La Défense.
+I am Souhail (or Sébastien) AIT LAHCEN, student at ESILV Paris, La Défense.
 
 I am passionate about robotic and informatics also study blockchain and crypto-markets in FinTech at ESILV. Now, I’m in two student associations, DaVinciBot (association of robotic) and LéoFive (association of futsal).
 
