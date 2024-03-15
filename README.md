@@ -5,7 +5,7 @@
   <a href="https://portfolio-website-souhail-vnxj.vercel.app/" target="_blank">Website/Portfolio</a>
 </p>
 
-I am Souhail (Sébastien) AIT LAHCEN, student at ESILV Paris, La Défense.
+I am Souhail AIT LAHCEN, student at ESILV Paris, La Défense.
 
 I am passionate about robotic and informatics also study blockchain and crypto-markets in FinTech at ESILV. Now, I’m in two student associations, DaVinciBot (association of robotic) and LéoFive (association of futsal).
 
